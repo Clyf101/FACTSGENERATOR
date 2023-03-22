@@ -7,7 +7,12 @@ The application is built using HTML, CSS, and JavaScript, and relies on the Fetc
 ## Installation
 To use the Fun Fact Generator, simply download the project files and open the index.html file in your web browser. 
 
+## View
+![Alt text](FUNFACTPIC.png)
+
 ## Credits
 This project was created by [Clyf101](https://github.com/Clyf101). The Fun Fact Generator uses the Facts by API Ninjas API, which provides interesting and surprising facts on a variety of topics.
 
+## Link
+- https://clyf101.github.io/FACTSGENERATOR/
 
