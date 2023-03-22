@@ -4,5 +4,10 @@ The Fun Fact Generator is a web application that uses an external API to retriev
 ## Technologies
 The application is built using HTML, CSS, and JavaScript, and relies on the Fetch API to retrieve data from an external API. The API used in this application is the Facts by API Ninjas API, which provides a collection of interesting and surprising facts on a variety of topics.
 
-##Installation
+## Installation
 To use the Fun Fact Generator, simply download the project files and open the index.html file in your web browser. 
+
+## Credits
+This project was created by [Clyf101](https://github.com/Clyf101). The Fun Fact Generator uses the Facts by API Ninjas API, which provides interesting and surprising facts on a variety of topics.
+
+
